@@ -26,8 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://dweemon.github.io/Challenge-QR-Code-Component/)
 
 ## My process
 
@@ -63,6 +62,6 @@ I would like to increase my understanding of flexbox and grid so I can use each 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/dweemon)
+- Frontend Mentor - [@dweemon](https://www.frontendmentor.io/profile/dweemon)
 
 
